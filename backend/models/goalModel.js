@@ -13,7 +13,7 @@ const goalSchema = mongoose.Schema(
     },
   },
   {
-    timeStramps: true,
+    timeStamps: true,
   }
 );
 
